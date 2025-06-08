@@ -1,6 +1,13 @@
 # Livraria
 API RESTful - Livraria (Spring Boot + PostgreSQL)
 
+# Trabalho do grupo: 
+Arthur Boaventura Riesco.
+
+Gabriel da Silva Coelho.
+
+Frederico Kunert
+
 Este projeto é uma API RESTful desenvolvida em **Java 21** com **Spring Boot**, que permite realizar operações CRUD (Create, Read, Update, Delete) para duas entidades principais: **Usuário** e **Livro**.
 Como ide eu usei o STS.
 
