@@ -49,9 +49,13 @@ spring.jackson.serialization.indent_output=true
 Método             Endpoint	                  Descrição
 
 GET	http://localhost:8080/api/usuarios	Lista todos os usuários
+
 GET	http://localhost:8080/api/usuarios/1	Busca usuário por ID
+
 POST	http://localhost:8080/api/usuarios	Cria novo usuário
+
 PUT	http://localhost:8080/api/usuarios/1	Atualiza usuário por ID
+
 DELETE	http://localhost:8080/api/usuarios/1	Remove usuário por ID
 
 # Livros
@@ -59,9 +63,13 @@ DELETE	http://localhost:8080/api/usuarios/1	Remove usuário por ID
 Método	           Endpoint	                 Descrição
 
 GET	http://localhost:8080/api/livros	Lista todos os livros
+
 GET	http://localhost:8080/api/livros/1	Busca livro por ID
+
 POST	http://localhost:8080/api/livros	Cria novo livro
+
 PUT	http://localhost:8080/api/livros/1	Atualiza livro por ID
+
 DELETE	http://localhost:8080/api/livros/1	Remove livro por ID
 
 # Estrutura do Projeto
